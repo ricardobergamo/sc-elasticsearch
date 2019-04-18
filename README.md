@@ -1,5 +1,5 @@
 # sc-elasticsearch
-Biblioteca externa para acesso ao Elasticsearch 6x no Scriptcase v9.
+Biblioteca externa para acesso ao Elasticsearch versão 6.x no Scriptcase versão 9.x.
 
 ### Instalação
  * Clone ou baixe o repositório;
