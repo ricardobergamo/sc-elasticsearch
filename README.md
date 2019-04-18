@@ -3,8 +3,9 @@ Biblioteca externa para acesso ao Elasticsearch 6x no Scriptcase v9.
 
  ## Instalação
  * Baixe o repositório no formato .zip (sc_elasticsearch-master.zip);
+ * Renomeie o arquivo 'sc_elasticsearch-master.zip' para 'vendor.zip'
  * Crie uma nova biblioteca externa pública no Scriptcase com o nome 'elasticsearch;
- * Edite a biblioteca e faça o upload do arquivo sc_elasticsearch-master.zip;
+ * Edite a biblioteca e faça o upload do arquivo vendor.zip;
  * Ative a biblioteca'elasticsearch' com a opção 'Usar biblioteca' e salve;
   
  ## Uso
