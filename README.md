@@ -10,8 +10,10 @@ Biblioteca externa para acesso ao Elasticsearch 6x no Scriptcase v9.
  ## Uso
  
  * Crie uma nova aplicação e insira o código:
- ##### sc_include_library("sys", "elasticsearch", "vendor/autoload.php", true, true);
- ##### $client = \Elasticsearch\ClientBuilder::create()->setHosts(['localhost:9200'])->build();
+ ```
+ sc_include_library("sys", "elasticsearch", "vendor/autoload.php", true, true);
+ $client = \Elasticsearch\ClientBuilder::create()->setHosts(['localhost:9200'])->build();
+```
 
 ## Documentação
 
